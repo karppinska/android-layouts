@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Please log in</string>
+
+    <string name="title">Please log in</string>
+    <string name="login">Log in</string>
+    <string name="cancel">Cancel</string>
+    <string name="email">Email</string>
+    <string name="pass">Password</string>
+</resources>
